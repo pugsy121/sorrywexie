@@ -58,12 +58,12 @@ const messages = [
     "really sure??",
     "what if i ask nicely",
     "please please please",
-    "sige na pleasee",
+    "ill buy u matcha :)",
     ":(((",
     "HUHUHU",
-    "teh?",
-    "fine block mo na lang ako",
-    "JOKE HEHE, PLEASEEEEEEE",
+    "please?",
+    "wow so u hate me",
+    "nooooo pleaseeeee",
     "(╥﹏╥)"
 ];
 
